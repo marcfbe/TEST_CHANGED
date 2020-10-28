@@ -12,8 +12,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>Report ZTEST_MODIFIED_REMOTELY</ENTRY>
-     <LENGTH>30</LENGTH>
+     <ENTRY>Report ZTEST_MODIFIED_REMOTELY 3</ENTRY>
+     <LENGTH>32</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
