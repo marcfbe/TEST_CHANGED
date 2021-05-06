@@ -16,5 +16,6 @@ CLASS zcl_test_mixed_parts IMPLEMENTATION.
 
 
   METHOD test.
+    " TEST
   ENDMETHOD.
 ENDCLASS.
