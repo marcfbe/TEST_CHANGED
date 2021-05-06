@@ -1,0 +1,20 @@
+CLASS zcl_test_add_part DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+
+    METHODS test .
+ENDCLASS.
+
+
+
+CLASS zcl_test_add_part IMPLEMENTATION.
+
+
+  method TEST.
+  endmethod.
+ENDCLASS.
